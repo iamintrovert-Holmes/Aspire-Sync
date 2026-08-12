@@ -43,10 +43,6 @@ A modern and interactive **College Finder Web Application** built with React, wh
 
 ---
 
-## 📧 Contact
-For queries, suggestions, or collaborations:
-Developer: Sampreet Ghosh
-Email: ghosh.sampreet@gmail.com
 
 ---
 
